@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		228509C9218057B9001F91BF /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 228509C8218057B9001F91BF /* main.swift */; };
+		228509D0218057E1001F91BF /* SingleResponsibilityPrinciple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 228509CF218057E1001F91BF /* SingleResponsibilityPrinciple.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		228509C5218057B9001F91BF /* Design Patterns in Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Design Patterns in Swift"; sourceTree = BUILT_PRODUCTS_DIR; };
 		228509C8218057B9001F91BF /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		228509CF218057E1001F91BF /* SingleResponsibilityPrinciple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleResponsibilityPrinciple.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				228509C8218057B9001F91BF /* main.swift */,
+				228509CF218057E1001F91BF /* SingleResponsibilityPrinciple.swift */,
 			);
 			path = "Design Patterns in Swift";
 			sourceTree = "<group>";
@@ -119,6 +122,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				228509D0218057E1001F91BF /* SingleResponsibilityPrinciple.swift in Sources */,
 				228509C9218057B9001F91BF /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
